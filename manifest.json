@@ -8,7 +8,8 @@
   "host_permissions": [
     "https://script.google.com/*",
     "*://www.linkedin.com/jobs/view/*",
-    "*://www.linkedin.com/jobs/collections/*"
+    "*://www.linkedin.com/jobs/collections/*",
+    "*://www.linkedin.com/jobs/search/*"
   ],
   "commands": {
     "extract-job-data": {
